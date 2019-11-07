@@ -31,7 +31,7 @@
     "@atomist/sdm-core": "1.8.0-dynamic-goals.20191112100149"
   },
   "devDependencies": {
-    "@atomist/sdm-local": "1.2.2-master.20191011215150",
+    "@atomist/sdm-local": "^1.2.1",
     "@types/mocha": "^5.2.7",
     "@types/power-assert": "^1.5.0",
     "espower-typescript": "^9.0.2",
