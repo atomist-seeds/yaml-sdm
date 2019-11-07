@@ -20,12 +20,13 @@
     "atomist",
     "automation",
     "sdm",
+    "yaml",
     "seed"
   ],
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
-    "@atomist/automation-client": "1.8.0-master.20191102180610",
+    "@atomist/automation-client": "1.8.0-master.20191107193443",
     "@atomist/sdm": "1.8.0-dynamic-goals.20191106181220",
     "@atomist/sdm-core": "1.8.0-dynamic-goals.20191107163240"
   },
@@ -40,9 +41,9 @@
     "rimraf": "^3.0.0",
     "supervisor": "^0.12.0",
     "ts-node": "^8.4.1",
-    "tslint": "^5.20.0",
+    "tslint": "^5.20.1",
     "typedoc": "^0.15.0",
-    "typescript": "^3.6.4"
+    "typescript": "^3.7.2"
   },
   "directories": {
     "test": "test"
