@@ -26,9 +26,9 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
-    "@atomist/automation-client": "1.8.0-master.20191107225525",
-    "@atomist/sdm": "1.8.0-dynamic-goals.20191107230956",
-    "@atomist/sdm-core": "1.8.0-dynamic-goals.20191108081458"
+    "@atomist/automation-client": "1.8.0-master.20191011121753",
+    "@atomist/sdm": "^1.7.0",
+    "@atomist/sdm-core": "^1.7.0"
   },
   "devDependencies": {
     "@atomist/sdm-local": "^1.2.1",
@@ -41,7 +41,7 @@
     "rimraf": "^3.0.0",
     "supervisor": "^0.12.0",
     "ts-node": "^8.4.1",
-    "tslint": "^5.20.0",
+    "tslint": "^5.20.1",
     "typedoc": "^0.15.0",
     "typescript": "^3.7.2"
   },
