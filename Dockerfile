@@ -2,6 +2,9 @@ FROM node:12
 
 LABEL maintainer="Atomist <docker@atomist.com>"
 
+RUN git config --global user.email "bot@atomist.com" \
+    && git config --global user.name "Atomist Bot"
+
 RUN mkdir -p /atm/sdm
 
 WORKDIR /atm/sdm
