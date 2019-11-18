@@ -1,4 +1,4 @@
-FROM node:12
+FROM node:13
 
 LABEL maintainer="Atomist <docker@atomist.com>"
 
@@ -20,7 +20,7 @@ RUN npm install -g npm
 ENTRYPOINT ["atomist-start"]
 CMD ["--help"]
 
-RUN npm install -g @atomist/cli@1.8.1-yaml-start.20191107215734
+RUN npm install -g @atomist/cli@branch-yaml-start
 
 COPY package.json package-lock.json ./
 
