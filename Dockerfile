@@ -12,15 +12,16 @@ WORKDIR /atm/sdm
 ENV NPM_CONFIG_LOGLEVEL warn
 ENV NODE_ENV production
 ENV SUPPRESS_NO_CONFIG_WARNING true
-ENV SEED_URL /atm/sdm
 ENV FORCE_COLOR 1
+
+ENV ATOMIST_SEED_URL /atm/sdm
 
 RUN npm install -g npm
 
 ENTRYPOINT ["atomist-start"]
 CMD ["--help"]
 
-RUN npm install -g @atomist/cli@branch-yaml-start
+RUN npm install -g @atomist/cli@1.8.1-yaml-start.20191128115944
 
 COPY package.json package-lock.json ./
 
