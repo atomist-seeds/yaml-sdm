@@ -26,10 +26,10 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
-    "@atomist/automation-client": "2.0.0-master.20191206152722",
-    "@atomist/sdm": "2.0.0-master.20191206153457",
-    "@atomist/sdm-core": "2.0.0-master.20191206160429",
-    "@atomist/sdm-pack-gcp": "0.1.0-master.20191030133626"
+    "@atomist/automation-client": "2.0.0-master.20191207163337",
+    "@atomist/sdm": "2.0.0-master.20191207100157",
+    "@atomist/sdm-core": "2.0.0-master.20191207235738",
+    "@atomist/sdm-pack-gcp": "0.1.0-master.20191208110459"
   },
   "devDependencies": {
     "@atomist/sdm-local": "1.2.2-master.20191011215150",
