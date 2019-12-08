@@ -48,14 +48,14 @@ Apache License 2.0 - [http://www.apache.org/licenses/LICENSE-2.0](http://www.apa
 
 | Name | Version | Publisher | Repository |
 |------|---------|-----------|------------|
-|`@atomist/sdm-core`|`2.0.0-master.20191206160429`|Atomist|[https://github.com/atomist/sdm-core](https://github.com/atomist/sdm-core)|
-|`@atomist/sdm-pack-gcp`|`0.1.0-master.20191030133626`|Atomist|[https://github.com/atomist/sdm-pack-gcp](https://github.com/atomist/sdm-pack-gcp)|
-|`@atomist/sdm`|`2.0.0-master.20191206153457`|Atomist|[https://github.com/atomist/sdm](https://github.com/atomist/sdm)|
+|`@atomist/sdm-core`|`2.0.0-master.20191207235738`|Atomist|[https://github.com/atomist/sdm-core](https://github.com/atomist/sdm-core)|
+|`@atomist/sdm-pack-gcp`|`0.1.0-master.20191208110459`|Atomist|[https://github.com/atomist/sdm-pack-gcp](https://github.com/atomist/sdm-pack-gcp)|
+|`@atomist/sdm`|`2.0.0-master.20191207100157`|Atomist|[https://github.com/atomist/sdm](https://github.com/atomist/sdm)|
 |`@atomist/slack-messages`|`1.1.1`|Atomist|[https://github.com/atomist/slack-messages](https://github.com/atomist/slack-messages)|
-|`@google-cloud/common`|`2.2.3`|Google Inc.|[https://github.com/googleapis/nodejs-common](https://github.com/googleapis/nodejs-common)|
-|`@google-cloud/paginator`|`2.0.2`|Google Inc.|[https://github.com/googleapis/nodejs-paginator](https://github.com/googleapis/nodejs-paginator)|
-|`@google-cloud/projectify`|`1.0.2`|Google Inc.|[https://github.com/googleapis/nodejs-projectify](https://github.com/googleapis/nodejs-projectify)|
-|`@google-cloud/promisify`|`1.0.3`|Google Inc.|[https://github.com/googleapis/nodejs-promisify](https://github.com/googleapis/nodejs-promisify)|
+|`@google-cloud/common`|`2.2.5`|Google Inc.|[https://github.com/googleapis/nodejs-common](https://github.com/googleapis/nodejs-common)|
+|`@google-cloud/paginator`|`2.0.3`|Google Inc.|[https://github.com/googleapis/nodejs-paginator](https://github.com/googleapis/nodejs-paginator)|
+|`@google-cloud/projectify`|`1.0.4`|Google Inc.|[https://github.com/googleapis/nodejs-projectify](https://github.com/googleapis/nodejs-projectify)|
+|`@google-cloud/promisify`|`1.0.4`|Google Inc.|[https://github.com/googleapis/nodejs-promisify](https://github.com/googleapis/nodejs-promisify)|
 |`@google-cloud/storage`|`4.1.3`|Google Inc.|[https://github.com/googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage)|
 |`@kubernetes/client-node`|`0.10.3`|Kubernetes Authors|[https://github.com/kubernetes-client/javascript](https://github.com/kubernetes-client/javascript)|
 |`aws-sign2`|`0.7.0`|Mikeal Rogers|[https://github.com/mikeal/aws-sign](https://github.com/mikeal/aws-sign)|
@@ -64,15 +64,15 @@ Apache License 2.0 - [http://www.apache.org/licenses/LICENSE-2.0](http://www.apa
 |`diff-match-patch`|`1.0.4`||[https://github.com/JackuB/diff-match-patch](https://github.com/JackuB/diff-match-patch)|
 |`ecdsa-sig-formatter`|`1.0.11`|D2L Corporation|[https://github.com/Brightspace/node-ecdsa-sig-formatter](https://github.com/Brightspace/node-ecdsa-sig-formatter)|
 |`forever-agent`|`0.6.1`|Mikeal Rogers|[https://github.com/mikeal/forever-agent](https://github.com/mikeal/forever-agent)|
-|`gaxios`|`2.1.0`|Google, LLC|[https://github.com/JustinBeckwith/gaxios](https://github.com/JustinBeckwith/gaxios)|
+|`gaxios`|`2.2.0`|Google, LLC|[https://github.com/JustinBeckwith/gaxios](https://github.com/JustinBeckwith/gaxios)|
 |`gcp-metadata`|`3.2.2`|Stephen Sawchuk|[https://github.com/googleapis/gcp-metadata](https://github.com/googleapis/gcp-metadata)|
-|`google-auth-library`|`5.5.1`|Google Inc.|[https://github.com/googleapis/google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs)|
+|`google-auth-library`|`5.6.1`|Google Inc.|[https://github.com/googleapis/google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs)|
 |`long`|`4.0.0`|Daniel Wirtz|[https://github.com/dcodeIO/long.js](https://github.com/dcodeIO/long.js)|
 |`node-jose`|`1.1.3`|Cisco Systems, Inc.|[https://github.com/cisco/node-jose](https://github.com/cisco/node-jose)|
 |`oauth-sign`|`0.9.0`|Mikeal Rogers|[https://github.com/mikeal/oauth-sign](https://github.com/mikeal/oauth-sign)|
 |`request`|`2.88.0`|Mikeal Rogers|[https://github.com/request/request](https://github.com/request/request)|
 |`rxjs`|`6.5.3`|Ben Lesh|[https://github.com/reactivex/rxjs](https://github.com/reactivex/rxjs)|
-|`teeny-request`|`5.3.1`|fhinkel|[https://github.com/googleapis/teeny-request](https://github.com/googleapis/teeny-request)|
+|`teeny-request`|`5.3.2`|fhinkel|[https://github.com/googleapis/teeny-request](https://github.com/googleapis/teeny-request)|
 |`tslib`|`1.10.0`|Microsoft Corp.|[https://github.com/Microsoft/tslib](https://github.com/Microsoft/tslib)|
 |`tunnel-agent`|`0.6.0`|Mikeal Rogers|[https://github.com/mikeal/tunnel-agent](https://github.com/mikeal/tunnel-agent)|
 |`typescript`|`3.7.2`|Microsoft Corp.|[https://github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)|
@@ -175,7 +175,7 @@ GNU General Public License v3.0 only - [https://www.gnu.org/licenses/gpl-3.0-sta
 
 | Name | Version | Publisher | Repository |
 |------|---------|-----------|------------|
-|`@atomist/automation-client`|`2.0.0-master.20191206152722`|Atomist|[https://github.com/atomist/automation-client](https://github.com/atomist/automation-client)|
+|`@atomist/automation-client`|`2.0.0-master.20191207163337`|Atomist|[https://github.com/atomist/automation-client](https://github.com/atomist/automation-client)|
 |`@atomist/microgrammar`|`1.2.1`|Atomist|[https://github.com/atomist/microgrammar](https://github.com/atomist/microgrammar)|
 |`@atomist/tree-path`|`1.0.3`|Atomist|[https://github.com/atomist/tree-path](https://github.com/atomist/tree-path)|
 
@@ -558,7 +558,7 @@ MIT License - [https://opensource.org/licenses/MIT](https://opensource.org/licen
 |`fsevents`|`2.1.2`||[https://github.com/fsevents/fsevents](https://github.com/fsevents/fsevents)|
 |`function-bind`|`1.1.1`|Raynos|[https://github.com/Raynos/function-bind](https://github.com/Raynos/function-bind)|
 |`gaze`|`1.1.3`|Kyle Robinson Young|[https://github.com/shama/gaze](https://github.com/shama/gaze)|
-|`gcs-resumable-upload`|`2.3.1`|Stephen Sawchuk|[https://github.com/googleapis/gcs-resumable-upload](https://github.com/googleapis/gcs-resumable-upload)|
+|`gcs-resumable-upload`|`2.3.2`|Stephen Sawchuk|[https://github.com/googleapis/gcs-resumable-upload](https://github.com/googleapis/gcs-resumable-upload)|
 |`get-stream`|`3.0.0`|Sindre Sorhus|[https://github.com/sindresorhus/get-stream](https://github.com/sindresorhus/get-stream)|
 |`get-stream`|`4.1.0`|Sindre Sorhus|[https://github.com/sindresorhus/get-stream](https://github.com/sindresorhus/get-stream)|
 |`getpass`|`0.1.7`|Alex Wilson|[https://github.com/arekinath/node-getpass](https://github.com/arekinath/node-getpass)|
