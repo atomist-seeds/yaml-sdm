@@ -28,7 +28,7 @@
   "dependencies": {
     "@atomist/automation-client": "2.0.0-master.20191207163337",
     "@atomist/sdm": "2.0.0-master.20191207100157",
-    "@atomist/sdm-core": "2.0.0-master.20191207235738",
+    "@atomist/sdm-core": "2.0.0-master.20191208114708",
     "@atomist/sdm-pack-gcp": "0.1.0-master.20191208110459"
   },
   "devDependencies": {
