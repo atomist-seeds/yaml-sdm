@@ -48,9 +48,9 @@ Apache License 2.0 - [http://www.apache.org/licenses/LICENSE-2.0](http://www.apa
 
 | Name | Version | Publisher | Repository |
 |------|---------|-----------|------------|
-|`@atomist/sdm-core`|`2.0.0-master.20191208194241`|Atomist|[https://github.com/atomist/sdm-core](https://github.com/atomist/sdm-core)|
+|`@atomist/sdm-core`|`2.0.0-master.20191208214349`|Atomist|[https://github.com/atomist/sdm-core](https://github.com/atomist/sdm-core)|
 |`@atomist/sdm-pack-gcp`|`0.1.0-master.20191208110459`|Atomist|[https://github.com/atomist/sdm-pack-gcp](https://github.com/atomist/sdm-pack-gcp)|
-|`@atomist/sdm`|`2.0.0-master.20191208190204`|Atomist|[https://github.com/atomist/sdm](https://github.com/atomist/sdm)|
+|`@atomist/sdm`|`2.0.0-master.20191209161414`|Atomist|[https://github.com/atomist/sdm](https://github.com/atomist/sdm)|
 |`@atomist/slack-messages`|`1.1.1`|Atomist|[https://github.com/atomist/slack-messages](https://github.com/atomist/slack-messages)|
 |`@google-cloud/common`|`2.2.5`|Google Inc.|[https://github.com/googleapis/nodejs-common](https://github.com/googleapis/nodejs-common)|
 |`@google-cloud/paginator`|`2.0.3`|Google Inc.|[https://github.com/googleapis/nodejs-paginator](https://github.com/googleapis/nodejs-paginator)|
@@ -299,7 +299,7 @@ MIT License - [https://opensource.org/licenses/MIT](https://opensource.org/licen
 |`@types/mime`|`2.0.1`||[https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|
 |`@types/minimatch`|`3.0.3`||[https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|
 |`@types/node-statsd`|`0.1.2`||[https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|
-|`@types/node`|`10.17.6`||[https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|
+|`@types/node`|`10.17.7`||[https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|
 |`@types/node`|`12.12.8`||[https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|
 |`@types/passport-http-bearer`|`1.0.34`||[https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|
 |`@types/passport-http`|`0.3.8`||[https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|
@@ -849,7 +849,7 @@ MIT License - [https://opensource.org/licenses/MIT](https://opensource.org/licen
 |`sentence-case`|`2.1.1`|Blake Embrey|[https://github.com/blakeembrey/sentence-case](https://github.com/blakeembrey/sentence-case)|
 |`serialize-error`|`3.0.0`|Sindre Sorhus|[https://github.com/sindresorhus/serialize-error](https://github.com/sindresorhus/serialize-error)|
 |`serve-static`|`1.14.1`|Douglas Christopher Wilson|[https://github.com/expressjs/serve-static](https://github.com/expressjs/serve-static)|
-|`sha-regex`|`1.0.8`|Nikolaos Kamarinakis|[https://github.com/k4m4/sha-regex](https://github.com/k4m4/sha-regex)|
+|`sha-regex`|`1.0.9`|Nikolaos Kamarinakis|[https://github.com/k4m4/sha-regex](https://github.com/k4m4/sha-regex)|
 |`shebang-command`|`1.2.0`|Kevin Martensson|[https://github.com/kevva/shebang-command](https://github.com/kevva/shebang-command)|
 |`shebang-regex`|`1.0.0`|Sindre Sorhus|[https://github.com/sindresorhus/shebang-regex](https://github.com/sindresorhus/shebang-regex)|
 |`simple-swizzle`|`0.2.2`|Qix|[https://github.com/qix-/node-simple-swizzle](https://github.com/qix-/node-simple-swizzle)|
