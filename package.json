@@ -28,7 +28,7 @@
   "dependencies": {
     "@atomist/automation-client": "2.0.0-remove-index.20200117153458",
     "@atomist/sdm": "2.0.0-remove-index.20200115150505",
-    "@atomist/sdm-core": "2.0.0-remove-index.20200120160117",
+    "@atomist/sdm-core": "2.0.0-remove-index.20200120165117",
     "@atomist/sdm-pack-gcp": "0.1.0-remove-index.20200107172000"
   },
   "devDependencies": {
